@@ -53,6 +53,16 @@ video {
   padding-left: 20px;
 }
 
+.footer { 
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #EEEEEE;
+  color: #A7A7A7;
+  text-align: right;
+}
+
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
   background-color: #eee;
