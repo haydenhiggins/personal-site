@@ -46,6 +46,7 @@ video {
   background-color: #f2c206;
   max-width: 25%;
   min-width: 140px;
+  height: 100%;
   flex: 1;
 }
 
